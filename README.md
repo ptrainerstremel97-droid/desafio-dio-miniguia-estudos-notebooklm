@@ -67,5 +67,5 @@ desafio-dio-miniguia-estudos-notebooklm/
 - [x] Miniguia de estudo criado.
 - [x] Glossario e prompts reutilizaveis incluidos.
 - [x] Pasta para artefatos visuais criada.
-- [ ] Publicar no GitHub.
-- [ ] Enviar URL do repositorio na plataforma da DIO.
+- [x] Publicar no GitHub.
+- [x] Enviar URL do repositorio na plataforma da DIO.
