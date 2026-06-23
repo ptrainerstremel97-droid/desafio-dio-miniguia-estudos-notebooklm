@@ -1,20 +1,71 @@
-# desafio-dio-miniguia-estudos-notebooklm
+# Investimentos em Bolsa de Valores: Da Analise Fundamentalista a Simulacao do Mercado Brasileiro
 
-### CONTEXTO E OBJETIVOS
+Projeto desenvolvido para o desafio da DIO **Construindo seu Segundo Cerebro no NotebookLM**.
 
-TÍTULO: estratégias Avançadas e Dinâmicas do Mercado de Capitais no Brasil: Da Teoria Fundamentalista à Simulação Computacional.
-  
-ESPECIALIDADE DO PROJETO: este caderno temático funciona como um segundo cérebro especializado na integração de métodos clássicos de análise fundamentalista (Graham e Buffett) com a microestrutura e regulação do mercado financeiro brasileiro.
+O objetivo foi criar um caderno tematico no NotebookLM a partir de fontes abertas em PDF sobre um assunto financeiro introdutorio. O tema escolhido foi **investimentos em bolsa de valores**, com foco em funcionamento da bolsa, analise de acoes, dividendos, estrategias long-short e simulacao da dinamica de precos.
 
-A especialidade desta ferramenta reside em consolidar uma "fonte de verdade única" que abrange desde a interpretação de modelos de gestão, como estratégias Long-Short e neutralidade ao Ibovespa, até a aplicação de modelagem multiagente para simulação de mercados artificiais.
+## Especialidade do projeto
 
-Ao atuar como uma base de conhecimento curada, o projeto garante que a análise de volatilidade, formação de preços e proteção ao investidor seja realizada de forma técnica e profunda, minimizando alucinações e baseando-se estritamente nos dados e documentos fornecidos como referência.
+Este projeto tem como especialidade organizar e transformar fontes abertas sobre investimentos em bolsa de valores em um caderno tematico de estudos no NotebookLM, com foco no funcionamento do mercado brasileiro, analise fundamentalista, estrategias baseadas em dividendos, operacoes long-short e simulacao da dinamica de precos.
 
-### 📂 Curadoria de Fontes
-Abaixo estão os documentos técnicos utilizados como "fonte de verdade única" neste projeto:
+A proposta integra conceitos regulatorios e operacionais da bolsa, como o papel da CVM, da B3, das corretoras e dos riscos de mercado, com abordagens de analise de acoes inspiradas em Graham e Buffett, alem de explorar como modelos multiagentes ajudam a compreender a formacao de precos, a volatilidade e o comportamento dos investidores.
 
-1. [06_brasil_dividendos_como_estrategia_de_investimentos_em_acoes.pdf](./Curadoria_de_Fontes/06_brasil_dividendos_como_estrategia_de_investimentos_em_acoes.pdf)
-2. [APLICABILIDADE DO MÉTODO DE ANÁLISE DE AÇÕES DE GRAHAM E.pdf](./Curadoria_de_Fontes/APLICABILIDADE%20DO%20MÉTODO%20DE%20ANÁLISE%20DE%20AÇÕES%20DE%20GRAHAM%20E.pdf)
-3. [Guia CVM Como Funciona a Bolsa.pdf](./Curadoria_de_Fontes/Guia%20CVM%20Como%20Funciona%20a%20Bolsa.pdf)
-4. [UMA ABORDAGEM MULTIAGENTE PARA SIMULAÇÃO DA DINÂMICA DE.pdf](./Curadoria_de_Fontes/UMA%20ABORDAGEM%20MULTIAGENTE%20PARA%20SIMULAÇÃO%20DA%20DINÂMICA%20DE.pdf)
-5. [Uma Análise da Estratégia Long-Short e a Neutralidade dos Fundos LongShort Brasileiros em Relação ao Ibovespa](./Curadoria_de_Fontes/Uma%20Análise%20da%20Estratégia%20Long-Short%20e%20a%20Neutralidade%20dos%20Fundos%20LongShort%20Brasileiros%20em%20Relação%20ao%20Ibovespa.pdf)
+## Organizacao da entrega
+
+- [Contexto e objetivos](docs/01-contexto-e-objetivos.md)
+- [Curadoria de fontes](docs/02-curadoria-de-fontes.md)
+- [Engenharia de prompts e cicatrizes](docs/03-prompts-e-cicatrizes.md)
+- [Miniguia de estudo](docs/04-miniguia-de-estudo.md)
+- [Glossario e prompts reutilizaveis](docs/05-glossario-e-prompts-reutilizaveis.md)
+- [Artefatos visuais do NotebookLM](docs/06-artefatos-visuais-notebooklm.md)
+- [Descricao para entrega na DIO](entregavel-dio.md)
+
+## Fontes utilizadas
+
+Os 5 PDFs utilizados no NotebookLM estao na pasta [Curadoria de Fontes](Curadoria%20de%20Fontes).
+
+## Artefatos do NotebookLM
+
+Tambem foram gerados artefatos no Estudio do NotebookLM para apoiar a revisao visual do conteudo, como mapa mental, infografico, teste, cartoes didaticos ou relatorios, conforme disponibilidade da ferramenta.
+
+Os links compartilhados estao documentados em [Artefatos visuais do NotebookLM](docs/06-artefatos-visuais-notebooklm.md).
+
+### Infografico gerado
+
+![Infografico sobre arquitetura de um mercado financeiro artificial](assets/notebooklm/infografico-mercado-financeiro-artificial.png)
+
+## Estrutura do repositorio
+
+```text
+desafio-dio-miniguia-estudos-notebooklm/
+|-- README.md
+|-- entregavel-dio.md
+|-- assets/
+|   `-- notebooklm/
+|       `-- infografico-mercado-financeiro-artificial.png
+|-- Curadoria de Fontes/
+|   |-- 06_brasil_dividendos_como_estrategia_de_investimentos_em_acoes.pdf
+|   |-- APLICABILIDADE DO METODO DE ANALISE DE ACOES DE GRAHAM E.pdf
+|   |-- Guia CVM Como Funciona a Bolsa.pdf
+|   |-- UMA ABORDAGEM MULTIAGENTE PARA SIMULACAO DA DINAMICA DE.pdf
+|   `-- Uma Analise da Estrategia Long-Short e a Neutralidade dos Fundos LongShort Brasileiros em Relacao ao Ibovespa.pdf
+`-- docs/
+    |-- 01-contexto-e-objetivos.md
+    |-- 02-curadoria-de-fontes.md
+    |-- 03-prompts-e-cicatrizes.md
+    |-- 04-miniguia-de-estudo.md
+    |-- 05-glossario-e-prompts-reutilizaveis.md
+    `-- 06-artefatos-visuais-notebooklm.md
+```
+
+## Status
+
+- [x] Tema definido.
+- [x] Fontes abertas selecionadas.
+- [x] PDFs organizados no repositorio.
+- [x] Prompts e cicatrizes documentados.
+- [x] Miniguia de estudo criado.
+- [x] Glossario e prompts reutilizaveis incluidos.
+- [x] Pasta para artefatos visuais criada.
+- [ ] Publicar no GitHub.
+- [ ] Enviar URL do repositorio na plataforma da DIO.
