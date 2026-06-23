@@ -12,8 +12,8 @@
 ### 📂 Curadoria de Fontes
 Abaixo estão os documentos técnicos utilizados como "fonte de verdade única" neste projeto:
 
-1. [Os Dividendos Como Estratégia de Investimentos](./Curadoria_de_Fontes/06_brasil_dividendos_como_estrategia_de_investimentos_em_acoes.pdf)
-2. [Aplicabilidade do Método de Graham e Buffett na B3](./Curadoria_de_Fontes/APLICABILIDADE%20DO%20MÉTODO%20DE%20ANÁLISE%20DE%20AÇÕES%20DE%20GRAHAM%20E.pdf)
-3. [Guia CVM: Como Funciona a Bolsa](./Curadoria_de_Fontes/Guia%20CVM%20Como%20Funciona%20a%20Bolsa.pdf)
-4. [Abordagem Multiagente para Simulação de Mercado](./Curadoria_de_Fontes/UMA%20ABORDAGEM%20MULTIAGENTE%20PARA%20SIMULAÇÃO%20DA%20DINÂMICA%20DE.pdf)
-5. [Estratégia Long-Short e Neutralidade ao Ibovespa](./Curadoria_de_Fontes/Uma%20Análise%20da%20Estratégia%20Long-Short%20e%20a%20Neutralidade%20dos%20Fundos%20LongShort%20Brasileiros%20em%20Relação%20ao%20Ibovespa.pdf)
+1. [06_brasil_dividendos_como_estrategia_de_investimentos_em_acoes.pdf](./Curadoria_de_Fontes/06_brasil_dividendos_como_estrategia_de_investimentos_em_acoes.pdf)
+2. [APLICABILIDADE DO MÉTODO DE ANÁLISE DE AÇÕES DE GRAHAM E.pdf](./Curadoria_de_Fontes/APLICABILIDADE%20DO%20MÉTODO%20DE%20ANÁLISE%20DE%20AÇÕES%20DE%20GRAHAM%20E.pdf)
+3. [Guia CVM Como Funciona a Bolsa.pdf](./Curadoria_de_Fontes/Guia%20CVM%20Como%20Funciona%20a%20Bolsa.pdf)
+4. [UMA ABORDAGEM MULTIAGENTE PARA SIMULAÇÃO DA DINÂMICA DE.pdf](./Curadoria_de_Fontes/UMA%20ABORDAGEM%20MULTIAGENTE%20PARA%20SIMULAÇÃO%20DA%20DINÂMICA%20DE.pdf)
+5. [Uma Análise da Estratégia Long-Short e a Neutralidade dos Fundos LongShort Brasileiros em Relação ao Ibovespa](./Curadoria_de_Fontes/Uma%20Análise%20da%20Estratégia%20Long-Short%20e%20a%20Neutralidade%20dos%20Fundos%20LongShort%20Brasileiros%20em%20Relação%20ao%20Ibovespa.pdf)
